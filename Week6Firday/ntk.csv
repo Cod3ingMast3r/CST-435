@@ -1,0 +1,5 @@
+word,pos,chunktag
+James,NNP,B-PERSON
+works,VBZ,O
+in,IN,O
+Intel,NNP,B-ORG
